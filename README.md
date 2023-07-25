@@ -37,7 +37,7 @@ python3 --version
 Use this code to clone the repository and download the habit tracker application:
 
 ```commandline
-git clone https://github.com/rahulragiri/iu_oofpp_habit_tracker_app.git
+git clone https://github.com/rahulragiri/iu-Habit-Tracker.git
 ```
 * To download Inquirer module: 
 ```commandline
